@@ -2,9 +2,9 @@
 bg: "vancouver.jpg"
 layout: page
 title: "About"
-crawlertitle: "Who is Jon?"
+crawlertitle: "About Jon"
 permalink: /about/
-summary: "Jonathan Ma?"
+summary: "Jonathan Ma"
 active: about
 ---
 
