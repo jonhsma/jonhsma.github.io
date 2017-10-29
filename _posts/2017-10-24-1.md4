@@ -1,7 +1,7 @@
 ---
 bg: "hoover.jpg"
 layout: post
-title:  "Welcom to Jonathan's Website"
+title:  "Welcome to Jonathan's Website"
 crawlertitle: "Welcome"
 summary: "An introductory remark"
 date:   2017-10-24 22:09:47 +0700
@@ -9,4 +9,6 @@ categories: posts
 tags: ['Welcome']
 author: Jon
 ---
-Here comes my personal website. Still figuring out what to add. Using this layout, I always start with a catalog of blogposts. Could be a problem but let's see
+Here comes my personal website. Still figuring out what to add. Using this layout, I always start with a catalog of blogposts. Could be a problem but let's see.
+
+Actually, I can get around it! Hope that you find my website easy to nevigate and comfortable to read. Have fun!
