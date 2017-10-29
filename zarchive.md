@@ -1,10 +1,10 @@
 ---
 bg: "wayfairer_c.jpg"
 layout: page
-permalink: /posts/
+permalink: /archieve/
 title: "Archive"
 crawlertitle: "All articles"
-summary: "Posts about jekyll"
+summary: "Of Posts"
 active: archive
 ---
 

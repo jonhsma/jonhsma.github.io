@@ -2,11 +2,32 @@
 bg: "local.jpg"
 layout: default
 crawlertitle: "Jonathan Ma"
-title: "Welcome to Jonathan's homepage"
-summary: "Home"
+title: "Welcome"
+summary: " to Jonathan's homepage"
 ---
 
-{% for post in site.posts limit: 5 %}
+<br>
+<br>
+<b><strong><font size="+5">Jonathan Ma</font></strong></b>
+<br>
+<br>
+ 
+I am a forth year graduate student pursuing a Ph.D. degree in physics at the University of California, Berkeley. I have been doing research on noval materials and I utilize the technique of Angle Resolved Photoemission Spectroscopy to interogate the electronic structure of condensed matter systems. Most of my time is spent on data analysis, mostly images of some sort.
+<br><br>
+
+Born in Sydney, Australia and raised in Hong Kong, I am currently residing in Berkeley, California.
+<br><br>
+
+Since I do a lot of data analysis and programming (and of course, writing) for my studies, I do run some data analysis or programming side projects. They are fun and sometimes useful!
+
+
+<br>
+<br>
+<b><strong><font size="+3">Latest Post</font></strong></b>
+<hr>
+<br>
+
+{% for post in site.posts limit: 1 %}
   <article class="index-page">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     {{ post.excerpt }}
