@@ -4,7 +4,7 @@ layout: page
 title: "Posts"
 crawlertitle: "Posts"
 permalink: /posts/
-summary: "Thoughs and News"
+summary: "Thoughts and News"
 active: posts
 ---
 
